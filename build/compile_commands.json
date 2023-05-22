@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/jj/Work/Test_pybind11/pybind-example/build",
+  "command": "/usr/bin/g++ -DMyLib_EXPORTS -DVERSION_INFO=\"\" -isystem /home/jj/.local/lib/python3.10/site-packages/pybind11/include -isystem /usr/include/python3.10 -isystem /usr/include/eigen3 -Wall -Wextra -fPIC -g -fPIC -fvisibility=hidden -std=gnu++20 -o CMakeFiles/MyLib.dir/pywrap.cpp.o -c /home/jj/Work/Test_pybind11/pybind-example/pywrap.cpp",
+  "file": "/home/jj/Work/Test_pybind11/pybind-example/pywrap.cpp"
+}
+]
