@@ -15,6 +15,3 @@ plt.xlabel("x")
 plt.ylabel("($f(x) = \gamma(x)$)")
 plt.title("(Gamma Function: $\gamma(z) = \int_0^\infty x^{z-1} e^{-x} dx$)",fontsize = 18);
 plt.show()
-
-
- 
